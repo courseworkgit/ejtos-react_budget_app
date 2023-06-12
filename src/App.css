@@ -24,6 +24,16 @@
   color: white;
 }
 
+.sameLine_1 {
+    white-space: nowrap;
+    display: inline-block;
+}
+.currency-green {
+    background-color: #a5e49f;
+}
+.currency-white {
+    color: white;
+}
 .App-link {
   color: #61dafb;
 }
@@ -36,3 +46,4 @@
     transform: rotate(360deg);
   }
 }
+
